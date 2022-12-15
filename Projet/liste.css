@@ -1,0 +1,59 @@
+
+   /* Style du h1 */
+
+h1 {
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+    /* Style du container + formulaire */
+
+        /* Style du container */
+
+#form_container {
+background-color: aliceblue;
+padding-left: 20px;
+width: 50%;
+border-radius: 10px;
+border-image: linear-gradient(#CC95C0, #DBD4B4, #7AA1D2) 30;
+border-width: 4px;
+border-style: solid;
+
+}
+
+    /* Style du formulaire  */
+
+form {
+    display: inline;
+    width: 80%;
+}
+
+    /* Style des labels */
+
+label {
+    font-size: 18px;
+}
+
+    /* Style des boutons submit */
+
+.submit {
+    font-size: 14px;
+    text-align: center;
+    width: 30%;
+    margin-left: 5px;
+    margin-top: 15px;
+    background-color:#ACB6E5;
+    border: 0px;
+    color: #006a4e;
+    border-radius: 5px;
+    
+}
+
+    /* Style des placeholder */
+
+::placeholder {
+    font-size: 13px;
+    opacity: 80%;
+}
+
+
