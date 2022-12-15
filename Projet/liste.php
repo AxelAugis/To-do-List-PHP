@@ -199,7 +199,6 @@ echo " <style>
             }
 
             h2 { 
-                color: #006a4e;
                 margin-left: 80px;
 
             }
